@@ -1,3 +1,7 @@
+# Game rules
+
+Game in which you must sort the numbers from 1 to 15 (ascending order) in 4 horizontal rows.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
